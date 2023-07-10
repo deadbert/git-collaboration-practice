@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Nicholas' and Nicholas' Repo
 
 ## Overview
@@ -6,7 +6,5 @@
 ## Set-Up Instructions
 
 ## Collaborators
--Nicholas Spencer
--Nicholas McEnroe
-=======
->>>>>>> main
+
+Nicholas Spencer and Nicholas McEnroe
